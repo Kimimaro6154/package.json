@@ -8,12 +8,12 @@ const App = Express();
 // ----- Settings ----- \\
 const Settings = {
   //THIS IS IMPORTANT\\
-  GUILD_ID: "", // THIS IS VERY IMPORTANT, THIS IS THE ID OF YOUR SERVER, SEARCH ON YOUTUBE HOW TO GET IT IF YOU DONT KNOW HOW
-  OWNER_ID: "", // THIS IS VERY IMPORTANT, THIS IS THE ID OF YOUR PROFILE, SEARCH ON YOUTUBE HOW TO GET IT IF YOU DONT KNOW HOW
+  GUILD_ID: "552471996856795201", // THIS IS VERY IMPORTANT, THIS IS THE ID OF YOUR SERVER, SEARCH ON YOUTUBE HOW TO GET IT IF YOU DONT KNOW HOW
+  OWNER_ID: "400992629082423297", // THIS IS VERY IMPORTANT, THIS IS THE ID OF YOUR PROFILE, SEARCH ON YOUTUBE HOW TO GET IT IF YOU DONT KNOW HOW
   Shoppy_API_KEY: "APIKEYHERE", // Create a Shoppy account If you haven't, then go to https://shoppy.gg/user/settings and look for your "API-KEY".
   Whitelisted_Role_ID: "IDHERE", // When users use the !whitelist or !rewhitelist command, they get this role.
   Blacklisted_Role_ID: "IDHERE", // When users who are not whitelist use the !rewhitelist command with a buyers Shoppy Order ID, they get this role.
-  LogsChannel_Channel_ID: "IDHERE", // Create a channel for logs when a user is whtelisted or uses a command!
+  LogsChannel_Channel_ID: "774551910099189782", // Create a channel for logs when a user is whtelisted or uses a command!
   //----------------\\
   KeyDataStart: "Data_" ,// The Data for the keys
   UsersDataStart: "UsersData_", // The Data for the users
